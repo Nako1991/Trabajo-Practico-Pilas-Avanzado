@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1679547998 source:g:\programacion y 1º cuatrimestre\programacion i 1er cuatrimestre\projectos\pilas avanzado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112218 source:g:\programacion y 1º cuatrimestre\programacion i 1er cuatrimestre\projectos\pilas avanzado\pila.c
+	"pila.h"
+
+1490112218 g:\programacion y 1º cuatrimestre\programacion i 1er cuatrimestre\projectos\pilas avanzado\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1679982756 source:d:\programacion 1er cuatrimestre\projectos\pilas avanzado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112218 d:\programacion 1er cuatrimestre\projectos\pilas avanzado\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112218 source:d:\programacion 1er cuatrimestre\projectos\pilas avanzado\pila.c
+	"pila.h"
+
+1681060194 source:g:\1. programacion 1\projectos\pilas avanzado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112218 g:\1. programacion 1\projectos\pilas avanzado\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112218 source:g:\1. programacion 1\projectos\pilas avanzado\pila.c
+	"pila.h"
+
+1681060194 source:f:\1. programacion 1\projectos\pilas avanzado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112218 f:\1. programacion 1\projectos\pilas avanzado\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112218 source:f:\1. programacion 1\projectos\pilas avanzado\pila.c
+	"pila.h"
+
